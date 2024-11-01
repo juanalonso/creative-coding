@@ -1,15 +1,9 @@
 # Saltómetro
-El Saltómetro es un contador que registra  los saltos de la cantante de LKAN durante sus conciertos.
+El Saltómetro es un contador que registra los saltos de la cantante de LKAN durante sus conciertos. (Vídeo al final del README).
 
 <p align="center">
   <img src="assets/saltometro_5.jpeg" alt="Saltometro 5" width="40%">
-&nbsp;
-<video width="40%" controls muted="false">
-  <source src="assets/saltometro_6.mp4" type="video/mp4">
-  Tu navegador no soporta la reproducción de videos.
-</video>
 </p>
-
 
 ## Hardware
 * LOLIN D32. Sirve cualquier módulo ESP32 con Bluetooth.
@@ -91,3 +85,5 @@ El programa usa dos clases:
 #### Controles de teclado
 * Pulsando la tecla '1', se incrementa el contador y aparece una nueva animación.
 * Pulsando la tecla 'z' se reinicia el contador a cero.
+
+https://github.com/user-attachments/assets/e229bf67-bf85-4167-b073-9cdd6331b46a
