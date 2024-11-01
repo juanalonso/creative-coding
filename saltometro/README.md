@@ -1,5 +1,14 @@
 # Saltómetro
-El Saltómetro es un contador de saltos creado para el grupo de música LKAN. Detecta cuando alguien salta y lo registra automáticamente, contando el número de saltos de la cantante durante sus conciertos.
+El Saltómetro es un contador que registra  los saltos de la cantante de LKAN durante sus conciertos.
+
+<p align="center">
+  <img src="assets/saltometro_5.jpeg" alt="Saltometro 5" width="40%">
+&nbsp;
+<video width="40%" controls muted="false">
+  <source src="assets/saltometro_6.mp4" type="video/mp4">
+  Tu navegador no soporta la reproducción de videos.
+</video>
+</p>
 
 
 ## Hardware
@@ -8,6 +17,12 @@ El Saltómetro es un contador de saltos creado para el grupo de música LKAN. De
 * Una batería compatible con el LOLIN.
 * Un ordenador, que recibe las pulsaciones del teclado simulado por el LOLIN.
 
+<p align="center">
+<img src="assets/saltometro_1.jpeg" alt="Saltometro 1" width="20%">
+<img src="assets/saltometro_2.jpeg" alt="Saltometro 2" width="20%">
+<img src="assets/saltometro_3.jpeg" alt="Saltometro 3" width="20%">
+<img src="assets/saltometro_4.jpeg" alt="Saltometro 4" width="20%">
+</p>
 
 ## Software
 ### Arduino (probado con el IDE 2.3.3)
