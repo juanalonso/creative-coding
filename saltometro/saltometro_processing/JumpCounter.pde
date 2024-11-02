@@ -1,5 +1,3 @@
-
-
 class JumpCounter {
 
   int value;
